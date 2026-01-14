@@ -1,5 +1,7 @@
 surfboard_store_python is a simple python application.
 
+//TODO: this comment has been added to test lazyit
+
 This app generates a list of surfboard in a store inventory. Each surfboard has a model, make, length and width.
 The app loops through the inventory list and prints out the details for each surfboard in the inventory.
 
