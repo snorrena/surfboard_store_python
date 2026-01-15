@@ -2,7 +2,7 @@ from inventory import surfboard_list
 from display import print_surfboard_data
 from products import Surfboard
 
-//TODO: this is a second todo added to test lazygit
+# /TODO: this is a second todo added to test lazygit
 
 surfboard: Surfboard
 for surfboard in surfboard_list:
