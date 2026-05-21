@@ -9,5 +9,6 @@ for surfboard in surfboard_list:
     print(
         f"Brand: {surfboard.brand}, Model: {surfboard.model}, Length: {surfboard.length}, Width: {surfboard.width}"
     )
+    print()
 
 print_surfboard_data(surfboard_list)
